@@ -1,16 +1,8 @@
-# oops-banner-app
-/**
- * OOPSBannerApp
- * 
- * Use Case 1: Print the literal text "OOPS" to the console.
- * 
- * @author Md Rayyan
- * @version 1.0
- */
 public class OOPSBannerApp {
 
     /**
      * Main method - Entry point of the application
+     * 
      * @param args Command line arguments
      */
     public static void main(String[] args) {
